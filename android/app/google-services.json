@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855769139538",
+    "project_id": "sozlukfire",
+    "storage_bucket": "sozlukfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855769139538:android:27febce56c110d8bf5128b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sozluk_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855769139538-hbto5pkqeahcbp024u22a5ajqkk3sobm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu54PfB7gAQ_Y4VTBwz2xK7uWQLMz3NG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855769139538-hbto5pkqeahcbp024u22a5ajqkk3sobm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
